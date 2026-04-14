@@ -14,12 +14,13 @@ This portfolio documents my journey into machine learning and advanced analytics
 | # | Project | Type | Tools | Best Result |
 |---|---------|------|-------|-------------|
 | 01 | [California Housing Price Prediction](./01_regression_california_housing/) | Regression | CatBoost, SHAP, scikit-learn | R² 0.85 |
+| 02 | [Titanic Survival Classification](./02_classification_titanic/) | Classification | LightGBM, SHAP, scikit-learn | F1 0.80 |
 
 ## Skills
 - **Languages:** Python, SQL
 - **ML Libraries:** scikit-learn, XGBoost, LightGBM, CatBoost, SHAP
 - **Data:** pandas, numpy, matplotlib, seaborn
-- **Concepts:** Regression, Cross Validation, Hyperparameter Tuning, Explainability
+- **Concepts:** Regression, Classification, Cross Validation, Hyperparameter Tuning, Explainability
 
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/dimitriostheocharis101/
