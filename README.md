@@ -16,7 +16,7 @@ This portfolio documents my journey into machine learning and advanced analytics
 | 01 | [California Housing Price Prediction](./01_regression_california_housing/) | Regression | CatBoost, SHAP, scikit-learn | R² 0.85 |
 | 02 | [Titanic Survival Classification](./02_classification_titanic/) | Classification | LightGBM, SHAP, scikit-learn | F1 0.80 |
 | 03 | [Credit Card Fraud Detection](./03_fraud_detection/) | Imbalanced Classification | Random Forest, SMOTE, XGBoost | F1 0.85 |
-| 04 | [Customer Segmentation — RFM & K-Means](./04_customer_segmentation (clustering)/) | Clustering | K-Means, RFM, scikit-learn | Silhouette 0.62 |
+| 04 | [Customer Segmentation — RFM & K-Means](./04_customer_segmentation(clustering)/) | Clustering | K-Means, RFM, scikit-learn | Silhouette 0.62 |
 
 ## Skills
 - **Languages:** Python, SQL
