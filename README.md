@@ -18,6 +18,7 @@ This portfolio documents my journey into machine learning and advanced analytics
 | 03 | [Credit Card Fraud Detection](./03_fraud_detection/) | Imbalanced Classification | Random Forest, SMOTE, XGBoost | F1 0.85 |
 | 04 | [Customer Segmentation — RFM & K-Means](./04_customer_segmentation/) | Clustering | K-Means, RFM, scikit-learn | Silhouette 0.62 |
 | 05 | [Revenue Forecasting — Prophet](./05_time_series/) | Time Series | Prophet, pandas, scikit-learn | MAPE 23.97% |
+| 06 | [Game Recommendation Engine](./06_recommendation_engine/) | Recommendation System | Collaborative Filtering, Cosine Similarity | Personalized per player |
 
 ## Skills
 - **Languages:** Python, SQL
@@ -26,6 +27,7 @@ This portfolio documents my journey into machine learning and advanced analytics
 - **Imbalanced Learning:** SMOTE, class weights, threshold tuning
 - **Clustering:** K-Means, DBSCAN, RFM Analysis, Elbow Method
 - **Time Series:** Prophet, seasonality decomposition, holiday regressors, MAPE
+- **Recommendation Systems:** Collaborative Filtering, Cosine Similarity, User-Item Matrix
 - **Concepts:** Regression, Classification, Imbalanced Classification, Clustering, Cross Validation, Hyperparameter Tuning, Explainability (SHAP), Time Series Forecasting
 - **Evaluation:** R², MAE, RMSE, Accuracy, Precision, Recall, F1, ROC-AUC, Silhouette Score, MAPE
 
